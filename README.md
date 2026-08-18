@@ -80,7 +80,7 @@ Projeto profissional desenvolvido utilizando React e TypeScript.
 - TypeScript
 - JavaScript
 
-🌍 https://SEU-SITE.com.br
+🌍 https://innfomaster.com.br/
 
 ---
 
@@ -105,6 +105,7 @@ API REST desenvolvida em C# utilizando .NET para autenticação com JWT.
 - SQL Server
 - Angular
 - Desenvolvimento Full Stack
+- Cloud (AWS, AZURE e IBM CLOUD)
 
 ---
 
